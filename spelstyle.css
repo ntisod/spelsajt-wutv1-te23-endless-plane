@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: #a6dce0;
+    font-family: fantasy;
+}
+
+p{
+    text-wrap: calc();
+}
