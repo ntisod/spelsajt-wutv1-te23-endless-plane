@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #a6dce0;
+    font-family: fantasy;
+}
+
+a{
+    display: inline;
+    border: #000000;
+    background-color: rgb(146, 184, 218);
+}
+
+img{
+    border-radius: 2cap;
+    border-color: rgb(97, 119, 148);
+    border-style:groove
+}
