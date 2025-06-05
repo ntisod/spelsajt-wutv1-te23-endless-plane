@@ -4,7 +4,7 @@ body{
     font-family: fantasy;
 }
 
-li{
+a{
     display: inline;
     border: #000000;
     background-color: rgb(146, 184, 218);
